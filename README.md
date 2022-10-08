@@ -1,2 +1,2 @@
-Built an application where  information of Employees can be managed. CRUD operations can be performed with the information.
+Built a simple todo list application containing list of tasks to be done .CRUD operations can be performed on it.
 Technologies used - HTML,CSS,Django,SQLite.
